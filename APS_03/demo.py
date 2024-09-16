@@ -98,4 +98,3 @@ def run():
     cap.release()
     cv.destroyAllWindows()
 
-run()
